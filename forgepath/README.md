@@ -38,3 +38,13 @@ Unslop dibuat oleh Damir Sokolovsky dan berlisensi CC BY 4.0. ForgePath adalah i
 
 ## Jalur pemula dari nol
 Buka `start.html` untuk materi pengantar yang mencakup cara kerja website, HTML, CSS, logika pemrograman, PHP, MySQL, dan Laravel. Halaman ini memiliki contoh HTML yang dapat dicoba langsung, latihan per tahap, dan checklist progres lokal.
+
+
+## ForgePath practice suite
+- `php-lab.html`: editor latihan dan instruksi menjalankan PHP melalui interpreter/server lokal. Tidak mengklaim menjalankan PHP di browser.
+- `sql-lab.html`: SQL interaktif memakai SQLite WebAssembly dengan database contoh sementara di memori browser. Sintaks SQLite tidak identik sepenuhnya dengan MySQL.
+- `quiz.html`: 12 pertanyaan evaluasi dengan skor dan pembahasan.
+- `projects.html`: empat proyek bertahap dari profil pribadi sampai aplikasi Laravel, checklist, dan rubrik mandiri.
+
+## Batasan teknis
+Semua halaman tetap statis. Progres tersimpan di localStorage pada browser/perangkat masing-masing, bukan tersinkronisasi lintas perangkat. SQL Lab memerlukan koneksi internet untuk memuat library sql.js dari CDN. PHP Lab memerlukan instalasi PHP lokal atau server PHP sungguhan. Jangan masukkan data rahasia ke latihan.
