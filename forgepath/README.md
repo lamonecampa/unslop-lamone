@@ -1,6 +1,6 @@
 # ForgePath — Jalur Belajar Laravel
 
-Portal belajar statis berbahasa Indonesia dengan urutan **PHP → MySQL → Laravel**.
+Portal belajar statis berbahasa Indonesia untuk pemula total. Jalur lengkap: pengenalan web → HTML → CSS → logika pemrograman → PHP → MySQL → Laravel.
 
 ## Fitur
 - Jalur belajar tiga tahap dengan ringkasan tujuan dan estimasi belajar.
@@ -35,3 +35,6 @@ Portal ini hanya frontend statis. Tidak ada backend, akun pengguna, sinkronisasi
 Antarmuka mengikuti prinsip desain yang terdokumentasi pada [Unslop](https://github.com/lamonecampa/unslop-lamone): permukaan netral, satu aksen utama, jarak konsisten, hierarki tipografi, ikon secukupnya, dan tanpa gradien/glow dekoratif.
 
 Unslop dibuat oleh Damir Sokolovsky dan berlisensi CC BY 4.0. ForgePath adalah implementasi desain terpisah, bukan bagian resmi dari proyek Unslop.
+
+## Jalur pemula dari nol
+Buka `start.html` untuk materi pengantar yang mencakup cara kerja website, HTML, CSS, logika pemrograman, PHP, MySQL, dan Laravel. Halaman ini memiliki contoh HTML yang dapat dicoba langsung, latihan per tahap, dan checklist progres lokal.
